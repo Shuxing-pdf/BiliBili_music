@@ -1,0 +1,431 @@
+[
+  {
+    "id":"Rg3SbSqZPOusCUbQDTF-8",
+    "name": "时雨羽衣",
+    "desc": "羽衣的歌！",
+    "author": "书兴",
+    "cover": "http://i0.hdslb.com/bfs/archive/370a21a76631e0743ebbcced706a67f5eddde24d.jpg",
+    "createdAt": null,
+    "updatedAt": null,
+    "musicList": [
+      {
+        "id": "114597025553193_BV1nu7pz4EoG_30242635974",
+        "avid": 114597025553193,
+        "bvid": "BV1nu7pz4EoG",
+        "cid": 30242635974,
+        "name": "【原创曲】ういこうせん（羽衣工船） ⧸ しぐれうい【にゃるら・Aiobahn +81】",
+        "duration": 266,
+        "cover": "http://i0.hdslb.com/bfs/archive/370a21a76631e0743ebbcced706a67f5eddde24d.jpg",
+        "author": "時雨羽衣Official",
+        "origin": "bili"
+      },
+      {
+        "id": "114590566325139_BV1NH7GzBEZG_30212424095",
+        "avid": 114590566325139,
+        "bvid": "BV1NH7GzBEZG",
+        "cid": 30212424095,
+        "name": "rainy lady  ⧸ covered by 雨衣",
+        "duration": 257,
+        "cover": "http://i0.hdslb.com/bfs/archive/7cdca7832dc6f4b3babc985f5c8292319633f43c.jpg",
+        "author": "時雨羽衣Official",
+        "origin": "bili"
+      },
+      {
+        "id": "114952954256519_BV1ChhHz8EY1_31421826630",
+        "avid": 114952954256519,
+        "bvid": "BV1ChhHz8EY1",
+        "cid": 31421826630,
+        "name": "チェリーポップ /covered by しぐれうい",
+        "duration": 141,
+        "cover": "http://i1.hdslb.com/bfs/archive/a93cbe4766b00ad01c0c1ae13e9d9f50bc943bca.jpg",
+        "author": "時雨羽衣Official",
+        "origin": "bili"
+      },
+      {
+        "id": "114919299096385_BV1TW84z2ECv_31296718068",
+        "avid": 114919299096385,
+        "bvid": "BV1TW84z2ECv",
+        "cid": 31296718068,
+        "name": "【雨衣】Cherry Pop【赤猫】",
+        "duration": 143,
+        "cover": "http://i1.hdslb.com/bfs/archive/791e0ff3498f083e58e41ad4b5fd81e9fc4e1d70.jpg",
+        "author": "ゆりがさきなな",
+        "origin": "bili"
+      },
+      {
+        "id": "114840429466339_BV1m6M9zPEEb_31000364303",
+        "avid": 114840429466339,
+        "bvid": "BV1m6M9zPEEb",
+        "cid": 31000364303,
+        "name": "【原创曲】ひっひっふー（吸吸吐） / しぐれうい【じん】",
+        "duration": 165,
+        "cover": "http://i1.hdslb.com/bfs/archive/ebb0fe798141ad54fa2b3e91d58958314c6228b9.jpg",
+        "author": "時雨羽衣Official",
+        "origin": "bili"
+      },
+      {
+        "id": "445673661_BV1Qj411o7G5_1190639521",
+        "avid": 445673661,
+        "bvid": "BV1Qj411o7G5",
+        "cid": 1190639521,
+        "name": "【原创歌曲】rainy lady _ 时雨羽衣",
+        "duration": 255,
+        "cover": "http://i1.hdslb.com/bfs/archive/20cace7e9f7bbb5fcfa5a3069a94f3133466e5de.jpg",
+        "author": "時雨羽衣Official",
+        "origin": "bili"
+      },
+      {
+        "id": "1406540101_BV1wr421T7DP_25660096897",
+        "avid": 1406540101,
+        "bvid": "BV1wr421T7DP",
+        "cid": 25660096897,
+        "name": "【原创曲】自在地活着吧【しぐれうい / いよわ】",
+        "duration": 248,
+        "cover": "http://i0.hdslb.com/bfs/archive/8b8d3eb63c327594473ae16b87e7fc1175f109e3.jpg",
+        "author": "時雨羽衣Official",
+        "origin": "bili"
+      },
+      {
+        "id": "1855196220_BV1fs421u7ce_31062822391",
+        "avid": 1855196220,
+        "bvid": "BV1fs421u7ce",
+        "cid": 31062822391,
+        "name": "【原创曲】うい麦畑でつかまえて（羽衣麦田的守望者）⧸ しぐれうい【ナナホシ管弦楽団】",
+        "duration": 226,
+        "cover": "http://i2.hdslb.com/bfs/archive/3e099500fda7b5086fa13cbbd0ac8cae2347149c.jpg",
+        "author": "時雨羽衣Official",
+        "origin": "bili"
+      },
+      {
+        "id": "960852557_BV1sH4y1D79p_1263327586",
+        "avid": 960852557,
+        "bvid": "BV1sH4y1D79p",
+        "cid": 1263327586,
+        "name": "【原创歌曲】粛聖!! ロリ神レクイエム☆ _ 时雨羽衣（9岁）",
+        "duration": 274,
+        "cover": "http://i2.hdslb.com/bfs/archive/46ed1ce896b8902f86d04673ad64457d558b50ad.jpg",
+        "author": "時雨羽衣Official",
+        "origin": "bili"
+      }
+    ]
+  },
+  {
+    "id": "7BE3J6_KdrUSmKHgnExQ2",
+    "name": "乐正绫",
+    "desc": "乐正绫的歌！御林军报道！",
+    "author": "书兴",
+    "cover": "http://i0.hdslb.com/bfs/archive/c4ed85af4597cce88734305ee0b7d34b0f98eb0c.jpg",
+    "createdAt": null,
+    "updatedAt": null,
+    "musicList": [
+      {
+        "id": "1305196045_BV1zM4m1r7JS_1608792581",
+        "avid": 1305196045,
+        "bvid": "BV1zM4m1r7JS",
+        "cid": 1608792581,
+        "name": "【洛天依/乐正绫原创】《霜雪千年》2024官方重置版【PV付】",
+        "duration": 242,
+        "cover": "http://i0.hdslb.com/bfs/archive/c4ed85af4597cce88734305ee0b7d34b0f98eb0c.jpg",
+        "author": "COPY",
+        "origin": "bili"
+      },
+      {
+        "id": "15039325_BV1ux41137MC_57776640",
+        "avid": 15039325,
+        "bvid": "BV1ux41137MC",
+        "cid": 57776640,
+        "name": "寄明月",
+        "duration": 232,
+        "cover": "http://i1.hdslb.com/bfs/archive/e9cf91efb6c2ed17bd720c091ad51fa56f5f777b.jpg",
+        "author": "T2o",
+        "origin": "bili"
+      },
+      {
+        "id": "113520129678201_BV1HJUUYNEB9_26974751215",
+        "avid": 113520129678201,
+        "bvid": "BV1HJUUYNEB9",
+        "cid": 26974751215,
+        "name": "【乐正绫】《寄明月2024》|“将相思寄明月，期盼你能察觉”【原创PV付】",
+        "duration": 230,
+        "cover": "http://i0.hdslb.com/bfs/archive/5bb7caaac382405f77bd9df1686e41855d63e423.jpg",
+        "author": "鬼面P",
+        "origin": "bili"
+      },
+      {
+        "id": "113525229951581_BV1D9BeYEETb_26898795715",
+        "avid": 113525229951581,
+        "bvid": "BV1D9BeYEETb",
+        "cid": 26898795715,
+        "name": "【Vsinger全员】青回！《寄明月2024》|“将相思寄明月期盼你能察觉”【原创PV付】",
+        "duration": 230,
+        "cover": "http://i1.hdslb.com/bfs/archive/1b124b9e6b6cf0a7903a0c130ed7c6175826e6fb.jpg",
+        "author": "鬼面P",
+        "origin": "bili"
+      },
+      {
+        "id": "113748333298321_BV12x6DYbE3r_27642038357",
+        "avid": 113748333298321,
+        "bvid": "BV12x6DYbE3r",
+        "cid": 27642038357,
+        "name": "【乐正绫原创】世末！！步伐！！不停息！！！【原创pv付】",
+        "duration": 217,
+        "cover": "http://i1.hdslb.com/bfs/archive/e9b8c5975b6b355dd02fdf745df2d0d24b1d77ff.jpg",
+        "author": "浣团吃不饱",
+        "origin": "bili"
+      },
+      {
+        "id": "114023664196690_BV16kAbemEBy_28452782867",
+        "avid": 114023664196690,
+        "bvid": "BV16kAbemEBy",
+        "cid": 28452782867,
+        "name": "【乐正绫】赛博超度！《嗵嗵》|“神明神明张开嘴，让我知道我是谁”【原创PV付】",
+        "duration": 265,
+        "cover": "http://i0.hdslb.com/bfs/archive/481c33066c7f02ce99afbab54495e82ba76fd05d.jpg",
+        "author": "鬼面P",
+        "origin": "bili"
+      },
+      {
+        "id": "114081277153858_BV1rd93YkE2a_28621016785",
+        "avid": 114081277153858,
+        "bvid": "BV1rd93YkE2a",
+        "cid": 28621016785,
+        "name": "【洛天依x乐正绫】《凝眸》| 今生吻过你眉目，是我的救赎别哭【原创PV付】【南北组】",
+        "duration": 221,
+        "cover": "http://i0.hdslb.com/bfs/archive/56d3149226f38879666ecc54ecada03fe66245ee.jpg",
+        "author": "鬼面P",
+        "origin": "bili"
+      },
+      {
+        "id": "114075455522519_BV1Sw9PYiEqG_28618788023",
+        "avid": 114075455522519,
+        "bvid": "BV1Sw9PYiEqG",
+        "cid": 28618788023,
+        "name": "卷 ❗️",
+        "duration": 203,
+        "cover": "http://i1.hdslb.com/bfs/archive/9b6cce1eba24cc66fbb980588f6475ffa14f4891.jpg",
+        "author": "Mara_然",
+        "origin": "bili"
+      },
+      {
+        "id": "1356459246_BV1tz421i7S7_1657736900",
+        "avid": 1356459246,
+        "bvid": "BV1tz421i7S7",
+        "cid": 1657736900,
+        "name": "逃 ❗️",
+        "duration": 169,
+        "cover": "http://i0.hdslb.com/bfs/archive/71ff623b07dd8c37962424c8ed60619af759f275.jpg",
+        "author": "Mara_然",
+        "origin": "bili"
+      },
+      {
+        "id": "1506255451_BV1TS421d7dZ_1657733246",
+        "avid": 1506255451,
+        "bvid": "BV1TS421d7dZ",
+        "cid": 1657733246,
+        "name": "逃 ❗️",
+        "duration": 169,
+        "cover": "http://i0.hdslb.com/bfs/archive/c780141e98509928b2ea739ca4fd44984c6e2d61.jpg",
+        "author": "Mara_然",
+        "origin": "bili"
+      },
+      {
+        "id": "114325385648268_BV1xBdhYCET8_29412821712",
+        "avid": 114325385648268,
+        "bvid": "BV1xBdhYCET8",
+        "cid": 29412821712,
+        "name": "世末歌者【乐正绫十周年生日会】",
+        "duration": 327,
+        "cover": "http://i1.hdslb.com/bfs/archive/88534fd78db97dd7a5c9ba13218a0f9d0d05f810.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114325083656835_BV1gGdaYnEN5_29375662058",
+        "avid": 114325083656835,
+        "bvid": "BV1gGdaYnEN5",
+        "cid": 29375662058,
+        "name": "九九八十一【乐正绫十周年生日会】",
+        "duration": 286,
+        "cover": "http://i1.hdslb.com/bfs/archive/8c7070f8596529aa8e2c94b4a5f14eba255e7896.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114347011479144_BV18aoNY1E7H_29440871580",
+        "avid": 114347011479144,
+        "bvid": "BV18aoNY1E7H",
+        "cid": 29440871580,
+        "name": "乐正绫十周年「向绫光」生日会回放",
+        "duration": 5443,
+        "cover": "http://i1.hdslb.com/bfs/archive/0bbe78c53c240eb4cd6d192a6fcb9128850c03e1.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "967674038_BV1zp4y1C7jB_177820973",
+        "avid": 967674038,
+        "bvid": "BV1zp4y1C7jB",
+        "cid": 177820973,
+        "name": "❀春日纪行❀",
+        "duration": 170,
+        "cover": "http://i2.hdslb.com/bfs/archive/2165008118a799ccd34dc67d436d9cd9e4bf9687.jpg",
+        "author": "星葵",
+        "origin": "bili"
+      },
+      {
+        "id": "114325134121460_BV1RcdaYZEpL_29375989702",
+        "avid": 114325134121460,
+        "bvid": "BV1RcdaYZEpL",
+        "cid": 29375989702,
+        "name": "春日纪行【乐正绫十周年生日会】",
+        "duration": 169,
+        "cover": "http://i2.hdslb.com/bfs/archive/bce1b35947b8aa420f64623284e266b7fd2fa7b7.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114325167543882_BV1VPdaYdEpD_29376122264",
+        "avid": 114325167543882,
+        "bvid": "BV1VPdaYdEpD",
+        "cid": 29376122264,
+        "name": "Glitter Days【乐正绫十周年生日会】",
+        "duration": 228,
+        "cover": "http://i0.hdslb.com/bfs/archive/e108695f7bb24e7ea81add7923f4f794a025e31d.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114325184385693_BV1xHdaY5E5d_29376253323",
+        "avid": 114325184385693,
+        "bvid": "BV1xHdaY5E5d",
+        "cid": 29376253323,
+        "name": "繁华唱遍【乐正绫十周年生日会】",
+        "duration": 244,
+        "cover": "http://i1.hdslb.com/bfs/archive/f685d9e95538ada63a21ede036e7db09b7e77a9d.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114325284983881_BV1KEdaYjE2M_29412689361",
+        "avid": 114325284983881,
+        "bvid": "BV1KEdaYjE2M",
+        "cid": 29412689361,
+        "name": "逃！【乐正绫十周年生日会】",
+        "duration": 170,
+        "cover": "http://i1.hdslb.com/bfs/archive/58f9e8635bfb356fe0e313ca8a293e1672f546d1.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114325318537448_BV1pydhYzEDe_29376972562",
+        "avid": 114325318537448,
+        "bvid": "BV1pydhYzEDe",
+        "cid": 29376972562,
+        "name": "酒心吻【乐正绫十周年生日会】",
+        "duration": 285,
+        "cover": "http://i1.hdslb.com/bfs/archive/d563136cc592281a5ae73bc07ee55f21b64afdc9.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "205048855_BV1Wh411U7Jg_323096613",
+        "avid": 205048855,
+        "bvid": "BV1Wh411U7Jg",
+        "cid": 323096613,
+        "name": "乐正绫-丑马0412",
+        "duration": 208,
+        "cover": "http://i1.hdslb.com/bfs/archive/3933673ca786101e752f8305d2edffbcb117f4cb.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "591828049_BV1Sq4y167Rj_445386557",
+        "avid": 591828049,
+        "bvid": "BV1Sq4y167Rj",
+        "cid": 445386557,
+        "name": "【乐正绫原创曲】酒心吻【EP《告白诗》收录曲】",
+        "duration": 289,
+        "cover": "http://i2.hdslb.com/bfs/archive/77caf652e056b78229accb083f0f95f5524b5746.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "36570707_BV17t411y7ZG_74641034",
+        "avid": 36570707,
+        "bvid": "BV17t411y7ZG",
+        "cid": 74641034,
+        "name": "繁华唱遍_第四版",
+        "duration": 256,
+        "cover": "http://i0.hdslb.com/bfs/archive/2c28ad5b1f166d648e820a68eac80b5fe88d324e.jpg",
+        "author": "纳兰寻风",
+        "origin": "bili"
+      },
+      {
+        "id": "114325352094145_BV1nmdhYqEQd_29413344256",
+        "avid": 114325352094145,
+        "bvid": "BV1nmdhYqEQd",
+        "cid": 29413344256,
+        "name": "千里邀月【乐正绫十周年生日会】",
+        "duration": 241,
+        "cover": "http://i2.hdslb.com/bfs/archive/d2faffa06dd4abc790b0acfdec453680e1ab15ea.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114317819123919_BV1L4d2YTEjF_29373562973",
+        "avid": 114317819123919,
+        "bvid": "BV1L4d2YTEjF",
+        "cid": 29373562973,
+        "name": "直到最后一天【乐正绫十周年官方生贺曲】",
+        "duration": 226,
+        "cover": "http://i2.hdslb.com/bfs/archive/b6d8a79b9ca8d6acb6c1c8621e9629a814ba08d2.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114325301760679_BV1TjdaYmEd9_29376905631",
+        "avid": 114325301760679,
+        "bvid": "BV1TjdaYmEd9",
+        "cid": 29376905631,
+        "name": "直到最后一天【乐正绫十周年生日会】",
+        "duration": 224,
+        "cover": "http://i0.hdslb.com/bfs/archive/42e0b6d786be71198874184ccd1c2c381ae5b2f6.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "114325217875973_BV1AsdaYGEqg_29413543732",
+        "avid": 114325217875973,
+        "bvid": "BV1AsdaYGEqg",
+        "cid": 29413543732,
+        "name": "上城名媛【乐正绫十周年生日会】",
+        "duration": 254,
+        "cover": "http://i0.hdslb.com/bfs/archive/f9107fa85b7aa826a8eeb9029820a0f3108ae1f5.jpg",
+        "author": "乐正绫",
+        "origin": "bili"
+      },
+      {
+        "id": "4510522_BV1ks411q7pc_7366706",
+        "avid": 4510522,
+        "bvid": "BV1ks411q7pc",
+        "cid": 7366706,
+        "name": "【乐正绫原创】上城名媛【Funk Fusion】【pv付】",
+        "duration": 257,
+        "cover": "http://i1.hdslb.com/bfs/archive/69684dc0ebd1bb10ee20d4653f008b8030a4b3c6.jpg",
+        "author": "账号已注销",
+        "origin": "bili"
+      },
+      {
+        "id": "2961713_BV1As41127Sp_4637890",
+        "avid": 2961713,
+        "bvid": "BV1As41127Sp",
+        "cid": 4637890,
+        "name": "【洛天依言和乐正绫原创】桃花笑【中秋快乐】【双面乐府】",
+        "duration": 235,
+        "cover": "http://i2.hdslb.com/bfs/archive/4294b7dfd8d70d41b7a6717a692a446fb0db7c65.jpg",
+        "author": "纳兰寻风",
+        "origin": "bili"
+      }
+    ]
+  }
+]
