@@ -14,9 +14,10 @@
 
 ## 使用教程
 
-1.[点此获取自己账号的mid](https://space.bilibili.com/ "".com/"之后的一串数字即对应账号的mid") ,".com/"之后的一串数字即对应账号的mid，即下图框选部分。
+1.[点此获取自己账号的mid](https://space.bilibili.com/) ,".com/"之后的一串数字即对应账号的mid，即下图框选部分。
 
 ![mid位置](https://i.imgur.com/h8EVJxH.png)
+
 
 2.运行_Fav___getlist.py_，按程序要求依次输入目标账号mid、目标收藏夹（支持模糊查找与重复导出检测）。
 
